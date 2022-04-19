@@ -1,4 +1,3 @@
 <ComponentB>
 Hello, welcome to my Awesome App!
 <ComponentA>
-Feature E
