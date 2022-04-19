@@ -1,2 +1,3 @@
 <ComponentB>
 Welcome to my App!
+<ComponentA>
